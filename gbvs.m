@@ -45,6 +45,7 @@ if ( param.useIttiKochInsteadOfGBVS )
     mymessage(param,'NOTE: Computing STANDARD Itti/Koch instead of Graph-Based Visual Saliency (GBVS)\n\n');
 end
 
+%%
 %%%% 
 %%%% STEP 1 : compute raw feature maps from image
 %%%%
